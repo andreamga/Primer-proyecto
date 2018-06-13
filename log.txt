@@ -1,0 +1,17 @@
+commit d82c727e2024dfbf666ec18cc8d242376bef0eed
+Author: cadif1 <cadif1@hotmail.com>
+Date:   Wed Jun 13 15:09:45 2018 -0400
+
+    Agregando el archivo otro.txt
+
+commit 5dcaaa100189326b24cfd84c06b39c9bdc37ac95
+Author: cadif1 <cadif1@hotmail.com>
+Date:   Wed Jun 13 15:05:57 2018 -0400
+
+    Se agrega el nombre Andrea
+
+commit 396f835b34300b5a6dbcad2a587a60b024118b43
+Author: cadif1 <cadif1@hotmail.com>
+Date:   Wed Jun 13 15:03:06 2018 -0400
+
+    Commit inicial
