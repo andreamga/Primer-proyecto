@@ -2,8 +2,7 @@
 
 creando ramas
 
-<<<<<<< HEAD
+
 agregando nueva linea en la rama desarrollo (modificando desde master)
-=======
-agregando nueva linea en la rama desarrollo (modificando desde desarrollo)
->>>>>>> desarrollo
+
+agregando otra línea
